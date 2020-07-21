@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Helping Hands App",
+        "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+        "description": "A group project application to connect volunteers with potential opportunities using Node.JS, express with handlebars, and MySQL with sequelize.",
+        "demo": "helping-hands-project-2.herokuapp.com",
+        "github": "https://github.com/Bpeart90/HelpingHands"
+    },
+    {
+        "id": 2,
+        "name": "Burger App",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "description": "A burger logger app with MySQL, Node JS, Express with handlebars and custom ORM. App creates a list of burgers that can be devoured or deleted. Devoured burgers are displayed separately.",
+        "demo": "wub-burger-app.herokuapp.com/",
+        "github": "https://github.com/wayele/burgers"
+    },
+    {
+        "id": 3,
+        "name": "Meals & Sips App",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "description": "A group project application that uses html, css, bulma css framework, JavaScript, JQuery ajax technologies. Application allows user to search for meal and cocktail recipes using third-party APIs.",
+        "demo": "https://wayele.github.io/meals_and_sips/",
+        "github": "https://github.com/wayele/meals_and_sips"
+    },
+    {
+        "id": 4,
+        "name": "Weather App",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "description": "A responsive app that renders weather information based on user input. User can search by city and be presented with current weather with UV index along with 5-day forecast.",
+        "demo": "wayele.github.io/weatherapi",
+        "github": "https://github.com/wayele/weatherAPI"
+    },
+    {
+        "id": 5,
+        "name": "Burger App",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "description": "A burger logger app with MySQL, Node JS, Express with handlebars and custom ORM. App creates a list of burgers that can be devoured or deleted. Devoured burgers are displayed separately.",
+        "demo": "wub-burger-app.herokuapp.com/",
+        "github": "https://github.com/wayele/burgers"
+    },
+    {
+        "id": 6,
+        "name": "Burger App",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "description": "A burger logger app with MySQL, Node JS, Express with handlebars and custom ORM. App creates a list of burgers that can be devoured or deleted. Devoured burgers are displayed separately.",
+        "demo": "wub-burger-app.herokuapp.com/",
+        "github": "https://github.com/wayele/burgers"
+    },
+    {
+        "id": 7,
+        "name": "Burger App",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "description": "A burger logger app with MySQL, Node JS, Express with handlebars and custom ORM. App creates a list of burgers that can be devoured or deleted. Devoured burgers are displayed separately.",
+        "demo": "wub-burger-app.herokuapp.com/",
+        "github": "https://github.com/wayele/burgers"
+    },
+    {
+        "id": 8,
+        "name": "Burger App",
+        "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+        "description": "A burger logger app with MySQL, Node JS, Express with handlebars and custom ORM. App creates a list of burgers that can be devoured or deleted. Devoured burgers are displayed separately.",
+        "demo": "wub-burger-app.herokuapp.com/",
+        "github": "https://github.com/wayele/burgers"
+    }
+]

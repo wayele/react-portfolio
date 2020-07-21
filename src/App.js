@@ -5,6 +5,9 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Jumbotron from './components/Jumbotron';
 import Works from './components/Works';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
+import Wrapper from './components/Wrapper';
 // import './App.css';
 
 function App() {
@@ -12,10 +15,13 @@ function App() {
     <Router>
       <div>
         <Navbar />
-        <Hero />
-        <Jumbotron />
-        <About />
-        <Works />
+        <Wrapper>
+          <Route exact path="/" component={Hero} />
+          <Route exact path="/about" component={About} />
+          <Route exact path="/works" component={Works} />
+          <Route exact path="/contact" component={Contact} />
+        </Wrapper>
+        <Footer />
       </div>
     </Router>
   );

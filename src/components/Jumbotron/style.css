@@ -11,7 +11,7 @@
     color: #3b5998;
     padding: 3rem;
   }
-  .fa-twitter {
+  .fa-linkedin {
     color: #00aced;
     padding: 3rem;
   }
@@ -19,13 +19,13 @@
     color: #bc2a8d;
     padding: 3rem;
   }
-  .fa-youtube {
-    color: #bb0000;
+  .fa-github {
+    color:#24292E;
     padding: 3rem;
   }
   .fa-facebook:hover,
-  .fa-twitter:hover,
+  .fa-linkedin:hover,
   .fa-instagram:hover,
-  .fa-youtube:hover {
+  .fa-github:hover {
     color: #d5d5d5;
   }
