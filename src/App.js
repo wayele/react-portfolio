@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Jumbotron from './components/Jumbotron';
+import Works from './components/Works';
 // import './App.css';
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <Hero />
         <Jumbotron />
         <About />
+        <Works />
       </div>
     </Router>
   );

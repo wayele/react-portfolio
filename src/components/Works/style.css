@@ -1,0 +1,18 @@
+.card {
+    width: 24rem;
+    height: 27rem;
+    margin-top: 2rem;
+    margin-left: 10px;
+}
+
+/* .card-img-top {
+    width: 24rem;
+    height: 12 rem; 
+} */
+.works {
+    background-color: #EBEEEE;
+    justify-content: center;
+    text-align: center;
+    padding-top: 2rem;
+}
+
