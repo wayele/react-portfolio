@@ -1,0 +1,31 @@
+.social {
+    background-color: gray;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 4.5em;
+  }
+  
+  .fa-facebook {
+    color: #3b5998;
+    padding: 3rem;
+  }
+  .fa-twitter {
+    color: #00aced;
+    padding: 3rem;
+  }
+  .fa-instagram {
+    color: #bc2a8d;
+    padding: 3rem;
+  }
+  .fa-youtube {
+    color: #bb0000;
+    padding: 3rem;
+  }
+  .fa-facebook:hover,
+  .fa-twitter:hover,
+  .fa-instagram:hover,
+  .fa-youtube:hover {
+    color: #d5d5d5;
+  }
