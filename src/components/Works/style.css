@@ -5,15 +5,11 @@
     margin-left: 10px;
 }
 
-/* .card-img-top {
-    width: 24rem;
-    height: 12 rem; 
-} */
 .works {
     background-color: #EBEEEE;
     justify-content: center;
     text-align: center;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
 }
 

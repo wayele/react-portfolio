@@ -1,14 +1,17 @@
 import React from 'react'
 import './style.css'
+import Skills from '../Skills'
+
 
 function About() {
     return (
         <section className="about">
             <div className="row">
-                <div className="col-md-3">
+                <div className="col-md-4">
                     <img className="profile" src="https://wayele.github.io/portfolio/assets/pic_wub.jpg" alt="profile pic" />
+                    <Skills />
                 </div>
-                <div className="col-md-9">
+                <div className="col-md-8">
                     <h2>About Me</h2>
                     <p>
                         Growing up I was always intrigued by how things work. As a kid, I often find myself disassembling watches,games,and broken radios to see how they work and what the components inside look like. After taking everything apart, I would try to put everything back together again and see if it still works. This curiosity still exists to this day and it is one of the main reasons for me to venture into programming and learning to code!
@@ -31,7 +34,6 @@ function About() {
                     </div>
                 </div>
             </div>
-
         </section>
     )
 }
